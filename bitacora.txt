@@ -1,3 +1,0 @@
-Primer reporsitorio del curso
-Trabajo usando git por ssh
-Este archivo se usara para practicar cambios y commits
